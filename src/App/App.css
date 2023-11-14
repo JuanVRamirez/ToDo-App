@@ -1,0 +1,20 @@
+body{
+    background-color: #C5E6F9;
+    color: #1E1E1F;
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#root {
+    margin:24px;
+    position: relative;
+    background-color: #94bed7;
+    border-radius: 25px;
+    padding: 24px;
+    height: auto;
+  }
+.searchBar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

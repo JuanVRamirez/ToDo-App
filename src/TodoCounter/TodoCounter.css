@@ -1,0 +1,13 @@
+.TodoCounter{
+    font-size: 24px;
+    text-align: center;
+    margin-top: 24px;
+    padding: 0;
+    color: white;
+    font-weight: normal;
+    font-weight: bold;
+    -webkit-text-stroke: 0.1px black;
+}
+.TodoCounter span{
+    font-weight: bold;
+}

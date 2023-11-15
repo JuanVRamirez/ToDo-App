@@ -14,7 +14,11 @@
     justify-content: center;
     align-items: center;
     height: 50px;
+    min-height: 50px;
+    max-height: 50px;
+    width: 50px;
     min-width: 50px;
+    max-width: 50px;
     z-index: 2;
     transform: rotate(0);
     transition: .3s ease;

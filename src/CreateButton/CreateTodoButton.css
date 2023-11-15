@@ -13,8 +13,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 64px;
-    min-width: 64px;
+    min-height: 50px;
+    min-width: 60px;
     z-index: 2;
     transform: rotate(0);
     transition: .3s ease;
